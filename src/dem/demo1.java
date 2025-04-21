@@ -1,0 +1,10 @@
+package dem;
+
+public class demo1 {
+
+	public static void main(String[] args) {
+System.out.println("working in genesys");
+System.out.println("Genesys infox");
+	}
+
+}
